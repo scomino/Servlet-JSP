@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alumnos>
+    <alumno>
+        <codigo>1</codigo>
+        <nombre>Rafel Mateu</nombre>
+        <asignatura>Programació</asignatura>
+        <tutoria>Tutoria 1 Programació</tutoria>
+    </alumno>
+    <alumno>
+        <codigo>1</codigo>
+        <nombre>Rafel Mateu</nombre>
+        <asignatura>Xarxes</asignatura>
+        <tutoria>Tutoria 1 Xarxes</tutoria>
+    </alumno>
+</alumnos>

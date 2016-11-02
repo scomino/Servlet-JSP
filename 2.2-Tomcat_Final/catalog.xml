@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/sergi/OneDrive/Documents/NetBeansProjects/2.2-Tomcat1.4/alumnos.xsd" uri="src/conf/xml-resources/jaxb/Alumnos/alumnos.xsd"/>
+</catalog>
